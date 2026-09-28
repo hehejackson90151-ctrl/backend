@@ -1,0 +1,1 @@
+export const DB_NAME = "videotube" // just name of ur app database 
